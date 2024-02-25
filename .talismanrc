@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: d37b7ec52573d73774101941175852e54313be06bbfff1f3b9617e23777cfef3
+- filename: data/questions.json
+  checksum: 123c71ccf510b510bfb78e6f8ce3c9ea6024ab83db27af307e2ba4cf7d0fd8b8
+- filename: src/components/Options.js
+  checksum: f64df5a26ed1abc3da34dd725e6857ce0c145dfb1a9301e3386a2b5cebd6f8e8
+version: ""
